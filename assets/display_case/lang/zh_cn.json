@@ -1,0 +1,13 @@
+{
+	"item.display_case.display_case": "展示柜",
+	"item.display_case.display_case_lid": "展示柜盖子",
+	"block.display_case.display_case": "展示柜",
+	"advancement.display_case.collapse.title": "崩塌！",
+	"advancement.display_case.collapse.description": "",
+	"advancement.display_case.colorful.title": "五彩斑斓！",
+	"advancement.display_case.colorful.description": "改变展示柜的颜色",
+	"advancement.display_case.display_item.title": "一个物品！",
+	"advancement.display_case.display_item.description": "将物品放入展示柜",
+	"advancement.display_case.infinity_case.title": "遥遥领先！",
+	"advancement.display_case.infinity_case.description": "将展示柜放入展示柜"
+}

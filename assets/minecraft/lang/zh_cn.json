@@ -1,0 +1,229 @@
+{
+"enchantment.veinmine": "批量采集（矿石、树木、沙子）",
+
+"erk.entity.banker":"银行家",
+
+"erk.item.banker":"银行家",
+"erk.item.copper_coin":"铜币",
+"erk.item.silver_coin":"银币",
+"erk.item.gold_coin":"金币",
+"erk.item.platinum_coin":"铂金币",
+
+"erk.text.copper_coins":"铜币:",
+"erk.text.silver_coins":"银币:",
+"erk.text.gold_coins":"金币:",
+"erk.text.platinum_coins":"铂金币:",
+
+"erk.text.copper.choose1":" 铜币 -×",
+"erk.text.copper.choose2":" 铜币 -> ",
+"erk.text.copper.choose2.remains1": " 银币 (剩余 ",
+"erk.text.copper.choose2.remains2": " )",
+"erk.text.copper.choose3": " 返回",
+"erk.text.silver.choose1": " 银币 -> ",
+"erk.text.silver.choose1.copper": " 铜币",
+"erk.text.silver.choose2": " 银币 -> ",
+"erk.text.silver.choose2.remains1": " 金币 (剩余 ",
+"erk.text.silver.choose2.remains2": " )",
+"erk.text.silver.choose3": " 返回",
+"erk.text.gold.choose1": " 金币 -> ",
+"erk.text.gold.choose1.silver": " 银币",
+"erk.text.gold.choose2": " 金币 ->",
+"erk.text.gold.choose2.remains1":" 铂金币（剩余 ",
+"erk.text.gold.choose2.remains2":" ）",
+"erk.text.gold.choose3":" 返回",
+"erk.text.platinum.choose1":"铂金币 ->",
+"erk.text.platinum.choose1.gold":"金币",
+"erk.text.platinum.choose2":" 铂金币 -×",
+"erk.text.platinum.choose3":" 返回",
+"if_you_see_this_message_then_you_need_to_download_the_resource_pack_from_modrinth":"",
+
+
+  "painting.minecraft.a_boat.title": "一艘船",
+  "painting.minecraft.a_boat.author": "Too Many Paintings!",
+
+  "painting.minecraft.afternoon.title": "下午",
+  "painting.minecraft.afternoon.author": "Too Many Paintings!",
+
+  "painting.minecraft.allay.title": "铺排",
+  "painting.minecraft.allay.author": "Too Many Paintings!",
+
+  "painting.minecraft.american.title": "美国",
+  "painting.minecraft.american.author": "Too Many Paintings!",
+
+  "painting.minecraft.ateneah.title": "阿泰纳",
+  "painting.minecraft.ateneah.author": "Too Many Paintings!",
+
+  "painting.minecraft.axperty.title": "阿克斯珀蒂",
+  "painting.minecraft.axperty.author": "Too Many Paintings!",
+
+  "painting.minecraft.beach.title": "海滩",
+  "painting.minecraft.beach.author": "Too Many Paintings!",
+
+  "painting.minecraft.bee.title": "蜜蜂",
+  "painting.minecraft.bee.author": "Too Many Paintings!",
+
+  "painting.minecraft.benda.title": "本达",
+  "painting.minecraft.benda.author": "Too Many Paintings!",
+
+  "painting.minecraft.cafe.title": "咖啡馆",
+  "painting.minecraft.cafe.author": "Too Many Paintings!",
+
+  "painting.minecraft.cherry_mountains.title": "樱桃山",
+  "painting.minecraft.cherry_mountains.author": "太多画了！",
+
+  "painting.minecraft.clocks.title": "时钟",
+  "painting.minecraft.clocks.author": "Too Many Paintings!",
+
+  "painting.minecraft.cornfield.title": "玉米地",
+  "painting.minecraft.cornfield.author": "Too Many Paintings!",
+
+  "painting.minecraft.cow.title": "牛",
+  "painting.minecraft.cow.author": "Too Many Paintings!",
+
+  "painting.minecraft.creation.title": "创作",
+  "painting.minecraft.creation.author": "Too Many Paintings!",
+
+  "painting.minecraft.drowned.title": "溺水",
+  "painting.minecraft.drowned.author": "Too Many Paintings!",
+
+  "painting.minecraft.earth.title": "地球",
+  "painting.minecraft.earth.author": "Too Many Paintings!",
+
+  "painting.minecraft.enderman.title": "末影人",
+  "painting.minecraft.enderman.author": "Too Many Paintings!",
+
+  "painting.minecraft.french.title": "法语",
+  "painting.minecraft.french.author": "Too Many Paintings!",
+
+  "painting.minecraft.frida.title": "弗里达",
+  "painting.minecraft.frida.author": "太多画了！",
+
+  "painting.minecraft.galaxy.title": "星系",
+  "painting.minecraft.galaxy.author": "Too Many Paintings!",
+
+  "painting.minecraft.ghast.title": "恶魂",
+  "painting.minecraft.ghast.author": "Too Many Paintings!",
+
+  "painting.minecraft.giorgio.title": "乔治奥",
+  "painting.minecraft.giorgio.author": "Too Many Paintings!",
+
+  "painting.minecraft.house.title": "房子",
+  "painting.minecraft.house.author": "太多画了！",
+
+  "painting.minecraft.lady.title": "女士",
+  "painting.minecraft.lady.author": "Too Many Paintings!",
+
+  "painting.minecraft.landscape.title": "风景",
+  "painting.minecraft.landscape.author": "Too Many Paintings!",
+
+  "painting.minecraft.lisa.title": "丽莎",
+  "painting.minecraft.lisa.author": "Too Many Paintings!",
+
+  "painting.minecraft.lovers.title": "恋人",
+  "painting.minecraft.lovers.author": "Too Many Paintings!",
+
+  "painting.minecraft.mountains.title": "山脉",
+  "painting.minecraft.mountains.author": "Too Many Paintings!",
+
+  "painting.minecraft.night.title": "夜晚",
+  "painting.minecraft.night.author": "Too Many Paintings!",
+
+  "painting.minecraft.pig.title": "猪",
+  "painting.minecraft.pig.author": "Too Many Paintings!",
+
+  "painting.minecraft.pillars.title": "柱子",
+  "painting.minecraft.pillars.author": "Too Many Paintings!",
+
+  "painting.minecraft.pyramid.title": "金字塔",
+  "painting.minecraft.pyramid.author": "Too Many Paintings!",
+
+  "painting.minecraft.rain.title": "雨",
+  "painting.minecraft.rain.author": "Too Many Paintings!",
+
+  "painting.minecraft.ring.title": "戒指",
+  "painting.minecraft.ring.author": "Too Many Paintings!",
+
+  "painting.minecraft.school.title": "学校",
+  "painting.minecraft.school.author": "Too Many Paintings!",
+
+  "painting.minecraft.scream.title": "尖叫",
+  "painting.minecraft.scream.author": "太多画了！",
+
+  "painting.minecraft.sheep.title": "羊",
+  "painting.minecraft.sheep.author": "Too Many Paintings!",
+
+  "painting.minecraft.skeleton.title": "骷髅",
+  "painting.minecraft.skeleton.author": "Too Many Paintings!",
+
+  "painting.minecraft.slime.title": "史莱姆",
+  "painting.minecraft.slime.author": "Too Many Paintings!",
+
+  "painting.minecraft.snow_golem.title": "雪傀儡",
+  "painting.minecraft.snow_golem.author": "Too Many Paintings!",
+
+  "painting.minecraft.son.title": "儿子",
+  "painting.minecraft.son.author": "Too Many Paintings!",
+
+  "painting.minecraft.spider.title": "蜘蛛",
+  "painting.minecraft.spider.author": "Too Many Paintings!",
+
+  "painting.minecraft.squares.title": "正方形",
+  "painting.minecraft.squares.author": "Too Many Paintings!",
+
+  "painting.minecraft.starry_night.title": "星夜",
+  "painting.minecraft.starry_night.author": "太多画了！",
+
+  "painting.minecraft.steve.title": "史蒂夫",
+  "painting.minecraft.steve.author": "Too Many Paintings!",
+
+  "painting.minecraft.stray.title": "流浪",
+  "painting.minecraft.stray.author": "Too Many Paintings!",
+
+  "painting.minecraft.villager.title": "村民",
+  "painting.minecraft.villager.author": "Too Many Paintings!",
+
+  "painting.minecraft.wave.title": "波浪",
+  "painting.minecraft.wave.author": "Too Many Paintings!",
+
+  "painting.minecraft.wheat_field.title": "麦田",
+  "painting.minecraft.wheat_field.author": "太多画了！",
+
+  "painting.minecraft.wither_skeleton.title": "凋灵骷髅",
+  "painting.minecraft.wither_skeleton.author": "Too Many Paintings!",
+
+  "painting.minecraft.zombie.title": "僵尸",
+  "painting.minecraft.zombie.author": "Too Many Paintings!",
+
+  "painting.minecraft.zombie_pigman.title": "僵尸猪人",
+  "painting.minecraft.zombie_pigman.author": "太多画了！",
+
+  "painting.minecraft.lonely_tree.title": "孤独的树",
+  "painting.minecraft.lonely_tree.author": "太多画了！",
+
+  "painting.minecraft.cherry_tree.title": "樱桃树",
+  "painting.minecraft.cherry_tree.author": "太多画了！",
+
+  "painting.minecraft.waterfall.title": "瀑布",
+  "painting.minecraft.waterfall.author": "Too Many Paintings!",
+
+  "painting.minecraft.cabin.title": "小屋",
+  "painting.minecraft.cabin.author": "Too Many Paintings!",
+
+  "painting.minecraft.forest.title": "森林",
+  "painting.minecraft.forest.author": "Too Many Paintings!",
+
+  "painting.minecraft.black_cat.title": "黑猫",
+  "painting.minecraft.black_cat.author": "太多画了！",
+
+  "painting.minecraft.penguins.title": "企鹅",
+  "painting.minecraft.penguins.author": "Too Many Paintings!",
+
+  "painting.minecraft.red_flower.title": "红花",
+  "painting.minecraft.red_flower.author": "太多画了！",
+
+  "painting.minecraft.river.title": "河流",
+  "painting.minecraft.river.author": "Too Many Paintings!",
+
+  "painting.minecraft.castle.title": "城堡",
+  "painting.minecraft.castle.author": "Too Many Paintings!"
+}

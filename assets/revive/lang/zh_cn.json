@@ -1,0 +1,36 @@
+{
+    "text.autoconfig.revive.title": "复活配置",
+    "text.autoconfig.revive.option.timer": "计时器",
+    "text.autoconfig.revive.option.dropLoot": "掉落战利品",
+    "text.autoconfig.revive.option.dropRandom": "掉落随机战利品",
+    "text.autoconfig.revive.option.dropRandomOnExplosion": "爆炸时随机掉落",
+    "text.autoconfig.revive.option.dropChance": "爆炸时掉落的几率",
+    "text.autoconfig.revive.option.reviveHealthPoints": "复活生命值",
+    "text.autoconfig.revive.option.reviveSupportiveHealthPoints": "复活辅助生命值",
+    "text.autoconfig.revive.option.reviveEffects": "复活状态效果",
+    "text.autoconfig.revive.option.effectLivelyAftermath": "活跃后果效果持续时间",
+    "text.autoconfig.revive.option.effectAftermath": "后果效果持续时间",
+    "text.autoconfig.revive.option.showDeathCoordinates": "显示死亡坐标",
+    "text.autoconfig.revive.option.allowLootablePlayer": "允许可掠夺玩家",
+    "text.autoconfig.revive.option.thirdPersonOnDeath": "第三人称死亡",
+    "text.autoconfig.revive.option.rotationSpeed": "旋转速度",
+    "text.autoconfig.revive.option.allowReviveWithHand": "允许用手复活",
+
+    "text.deathScreen.revive": "复活",
+    "text.deathScreen.timer": "时间： %d",
+    "text.deathScreen.coordinates": "坐标：%d，%d，%d",
+
+    "item.revive.revival_star": "复活之星",
+
+    "item.minecraft.potion.effect.revivify_potion": "复活药水",
+    "item.minecraft.splash_potion.effect.revivify_potion": "喷溅型复活药水",
+    "item.minecraft.lingering_potion.effect.revivify_potion": "滞留型复活药水",
+    "item.minecraft.potion.effect.supportive_revivify_potion": "辅助复活药水",
+    "item.minecraft.splash_potion.effect.supportive_revivify_potion": "喷溅型辅助复活药水",
+    "item.minecraft.lingering_potion.effect.supportive_revivify_potion": "滞留型辅助复活药水",
+
+    "item.minecraft.tipped_arrow.effect.revivify_potion": "复活之箭",
+    "item.minecraft.tipped_arrow.effect.supportive_revivify_potion": "辅助复活之箭",
+    "effect.revive.aftermath": "再战",
+    "effect.revive.lively_aftermath": "活力再战"
+}

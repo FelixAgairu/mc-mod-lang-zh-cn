@@ -1,0 +1,13 @@
+{
+  "mavapi.mod.minecraft": "Minecraft",
+
+  "mavapi.variant.minecraft.lucy": "幸运",
+  "mavapi.variant.minecraft.wild": "野生",
+  "mavapi.variant.minecraft.gold": "金",
+  "mavapi.variant.minecraft.cyan": "青",
+  "mavapi.variant.minecraft.blue": "蓝",
+
+  "mavapi.bucket.format": "%s %s (%s)",
+  "mavapi.bucket.translation.baby": "幼年",
+  "mavapi.bucket.translation.adult": "成年"
+}
